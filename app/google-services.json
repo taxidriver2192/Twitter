@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50278201738",
+    "project_id": "twitter-30810",
+    "storage_bucket": "twitter-30810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50278201738:android:bd43052c49dbe44a013073",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50278201738-0ch06p5b0n7slc32a546svgmaioq95lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD87nJ0pfdipiUIQR55GAAb4UymhZvR5Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50278201738-0ch06p5b0n7slc32a546svgmaioq95lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
